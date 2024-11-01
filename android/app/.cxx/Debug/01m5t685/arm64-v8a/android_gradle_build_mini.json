@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\SDK for Qt\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\.cxx\\Debug\\01m5t685\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\SDK for Qt\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\.cxx\\Debug\\01m5t685\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "nanodetncnn-Debug-arm64-v8a": {
+      "artifactName": "nanodetncnn",
+      "buildCommandComponents": [
+        "D:\\SDK for Qt\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\.cxx\\Debug\\01m5t685\\arm64-v8a",
+        "nanodetncnn"
+      ],
+      "abi": "arm64-v8a",
+      "output": "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\build\\intermediates\\cxx\\Debug\\01m5t685\\obj\\arm64-v8a\\libnanodetncnn.so",
+      "runtimeFiles": [
+        "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\src\\main\\jni\\arm64-v8a\\lib\\libncnn.so"
+      ]
+    }
+  }
+}

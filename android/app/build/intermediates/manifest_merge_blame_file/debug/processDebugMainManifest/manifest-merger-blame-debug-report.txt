@@ -1,0 +1,94 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.nanodetncnn"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="24" />
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:6:5-65
+11-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:6:22-62
+12
+13    <!-- ************************拨打电话权限************************ -->
+14    <uses-permission android:name="android.permission.CALL_PHONE" />
+14-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:9:5-69
+14-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:9:22-66
+15
+16    <uses-feature android:name="android.hardware.camera2.full" />
+16-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:11:5-66
+16-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:11:19-63
+17
+18    <application
+18-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:13:5-41:19
+19        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+19-->[com.android.support:support-compat:28.0.0] D:\android_gradle\caches\transforms-3\6a903bfff990e308caed9a410c08987c\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+20        android:debuggable="true"
+21        android:extractNativeLibs="true"
+21-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:13:18-50
+22        android:testOnly="true" >
+23        <activity
+23-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:14:9-20:20
+24            android:name="com.tencent.nanodetncnn.Login"
+24-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:14:19-39
+25            android:label="@string/app_name" >
+25-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:15:13-45
+26            <intent-filter>
+26-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:16:13-19:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:17:17-69
+27-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:17:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:18:17-77
+29-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:18:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:21:9-27:20
+33            android:name="com.tencent.nanodetncnn.Menu"
+33-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:21:19-38
+34            android:label="@string/app_name" >
+34-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:22:13-45
+35
+36            <!--
+37            <intent-filter>
+38                <action android:name="android.intent.action.MAIN" />
+39                <category android:name="android.intent.category.LAUNCHER" />
+40            </intent-filter>
+41            -->
+42        </activity>
+43        <activity android:name="com.tencent.nanodetncnn.Detect" >
+43-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:28:9-33:20
+43-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:28:19-40
+44
+45            <!--
+46            <intent-filter>
+47                <action android:name="android.intent.action.MAIN" />
+48                <category android:name="android.intent.category.LAUNCHER" />
+49            </intent-filter>
+50            -->
+51        </activity>
+52        <activity
+52-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:34:9-35:47
+53            android:name="com.tencent.nanodetncnn.Menu2"
+53-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:34:19-39
+54            android:label="@string/app_name" />
+54-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:35:13-45
+55        <activity
+55-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:36:9-37:47
+56            android:name="com.tencent.nanodetncnn.register2"
+56-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:36:19-43
+57            android:label="@string/app_name" />
+57-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:37:13-45
+58        <activity
+58-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:38:9-39:47
+59            android:name="com.tencent.nanodetncnn.reegister1"
+59-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:38:19-45
+60            android:label="@string/app_name" />
+60-->D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:39:13-45
+61    </application>
+62
+63</manifest>

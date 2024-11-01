@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Be Your Ais</string>
+    <string-array name="model_array">
+        <item>m</item>
+        <item>m-416</item>
+        <item>g</item>
+        <item>ELite0_320</item>
+        <item>ELite1_416</item>
+        <item>ELite2_512</item>
+        <item>RepVGG-A0_416</item>
+    </string-array>
+    <string-array name="cpugpu_array">
+        <item>CPU</item>
+        <item>GPU</item>
+    </string-array>
+
+    <string name="user1">NEED HELP</string>
+    <string name="user2">OFFER HELP</string>
+    <string name="sign_in">LOG IN</string>
+    <string name="register">SIGN UP</string>
+    <string name="f1">读文</string>
+
+    <string name="f2">识景</string>
+
+    <string name="f3">赏景</string>
+
+    <string name="fa">看见</string>
+    <string name="fb">呼救</string>
+    <string name="fc">探索</string>
+</resources>

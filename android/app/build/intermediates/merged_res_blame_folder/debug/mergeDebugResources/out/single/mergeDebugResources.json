@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\layout_login.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_newlogo.jpg.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\newlogo.jpg"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\layout_menu2.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\layout\\menu2.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_backround.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\backround.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\layout_detect.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\layout\\detect.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_user_icon.png.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\user_icon.png"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\layout_menu.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\layout\\menu.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_oip.jpg.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\oip.jpg"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_round.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\round.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_round4.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\round4.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_logo1.png.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\logo1.png"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_round2.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\round2.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_logout_icon.png.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\logout_icon.png"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_unlock_lock_icon.png.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\unlock_lock_icon.png"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_phone_call.png.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\phone_call.png"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_back.jpg.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\back.jpg"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_card.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\card.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\layout_register2.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\layout\\register2.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_pin_icon.png.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\pin_icon.png"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\layout_register1.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\layout\\register1.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_round3.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\round3.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\layout_text.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\layout\\text.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_circle.xml.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "com.tencent.nanodetncnn.app-debug-7:/layout_register1.xml.flat",
+        "source": "com.tencent.nanodetncnn.app-main-9:/layout/register1.xml"
+    },
+    {
+        "merged": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-debug-7:\\drawable_alert_icon.png.flat",
+        "source": "D:\\android_gradle\\daemon\\8.4\\com.tencent.nanodetncnn.app-main-9:\\drawable\\alert_icon.png"
+    }
+]

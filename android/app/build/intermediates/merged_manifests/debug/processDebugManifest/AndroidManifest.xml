@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tencent.nanodetncnn"
+    android:versionCode="1"
+    android:versionName="1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <!-- ************************拨打电话权限************************ -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <uses-feature android:name="android.hardware.camera2.full" />
+
+    <application
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="true"
+        android:testOnly="true" >
+        <activity
+            android:name="com.tencent.nanodetncnn.Login"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tencent.nanodetncnn.Menu"
+            android:label="@string/app_name" >
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity android:name="com.tencent.nanodetncnn.Detect" >
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name="com.tencent.nanodetncnn.Menu2"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.tencent.nanodetncnn.register2"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.tencent.nanodetncnn.reegister1"
+            android:label="@string/app_name" />
+    </application>
+
+</manifest>

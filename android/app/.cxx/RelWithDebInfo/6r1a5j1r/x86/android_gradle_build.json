@@ -1,0 +1,42 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\SDK for Qt\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\.cxx\\RelWithDebInfo\\6r1a5j1r\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\SDK for Qt\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\.cxx\\RelWithDebInfo\\6r1a5j1r\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "nanodetncnn-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "D:\\SDK for Qt\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\.cxx\\RelWithDebInfo\\6r1a5j1r\\x86",
+        "nanodetncnn"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "nanodetncnn",
+      "output": "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\6r1a5j1r\\obj\\x86\\libnanodetncnn.so",
+      "runtimeFiles": [
+        "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\src\\main\\jni\\x86\\lib\\libncnn.so"
+      ]
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

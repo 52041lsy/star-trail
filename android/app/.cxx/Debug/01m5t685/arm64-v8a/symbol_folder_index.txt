@@ -1,0 +1,1 @@
+D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\build\intermediates\cxx\Debug\01m5t685\obj\arm64-v8a

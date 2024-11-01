@@ -1,0 +1,1 @@
+D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\jni\CMakeLists.txt

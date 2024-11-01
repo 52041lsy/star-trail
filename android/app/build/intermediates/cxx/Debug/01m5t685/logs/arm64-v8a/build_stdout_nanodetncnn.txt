@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\.cxx\Debug\01m5t685\arm64-v8a'
+ninja: no work to do.

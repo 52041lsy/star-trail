@@ -1,0 +1,1448 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-bs\\values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-tl\\values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-et\\values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-ms\\values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-as\\values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-iw\\values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-or_values-or.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-or\\values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-az\\values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-el\\values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-sq\\values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-my\\values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-v24_values-v24.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\e5b99ebd4299a66c361e9a7f0b49574d\\transformed\\support-media-compat-28.0.0\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-ne\\values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-kk\\values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-uk\\values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-lt\\values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-gl\\values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-be\\values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-is\\values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-si\\values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "12,3,2,21,23,25,27,28,29,20,19,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "378,107,57,674,711,748,785,820,855,628,584,493,538",
+                        "endLines": "15,11,2,21,23,25,27,28,29,20,19,17,18",
+                        "endColumns": "19,19,48,33,33,33,33,33,33,44,42,43,44",
+                        "endOffsets": "485,372,101,703,740,777,814,849,884,668,622,532,578"
+                    },
+                    "to": {
+                        "startLines": "2,6,64,65,66,67,68,69,70,71,72,74,75",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,3426,3475,3509,3543,3577,3611,3645,3679,3724,3838,3882",
+                        "endLines": "5,14,64,65,66,67,68,69,70,71,72,74,75",
+                        "endColumns": "19,19,48,33,33,33,33,33,33,44,42,43,44",
+                        "endOffsets": "159,421,3470,3504,3538,3572,3606,3640,3674,3719,3762,3877,3922"
+                    }
+                },
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178,6,13,56,88,125",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,245,7725,7795,7863,7935,8005,8066,8140,8213,8274,8335,8397,8461,8523,8584,8652,8752,8812,8878,8951,9020,9077,9129,9191,9263,9339,9374,9409,9459,9520,9577,9611,9646,9681,9751,9822,9939,10140,10250,10451,10580,10652,319,617,3523,5588,7348",
+                        "endLines": "2,3,4,5,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,170,171,175,176,177,178,12,55,87,124,131",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
+                        "endOffsets": "119,182,240,314,7790,7858,7930,8000,8061,8135,8208,8269,8330,8392,8456,8518,8579,8647,8747,8807,8873,8946,9015,9072,9124,9186,9258,9334,9369,9404,9454,9515,9572,9606,9641,9676,9746,9817,9934,10135,10245,10446,10575,10647,10714,612,3518,5583,7343,7720"
+                    },
+                    "to": {
+                        "startLines": "19,20,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,52,53,54,55,56,57,58,59,60,61,63,73,76,77,82,85,90,92,93,97,194,225,246,279",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "631,700,923,1054,1128,1198,1266,1338,1408,1469,1543,1616,1677,1738,1800,1864,1926,1987,2055,2155,2215,2281,2354,2423,2480,2532,2806,2878,2954,2989,3024,3074,3135,3192,3226,3261,3356,3767,3927,4044,4311,4604,4871,5067,5139,5351,10289,11943,12624,13306",
+                        "endLines": "19,20,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,52,53,54,55,56,57,58,59,60,61,63,73,76,80,82,88,90,92,93,103,224,245,278,284",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
+                        "endOffsets": "695,758,976,1123,1193,1261,1333,1403,1464,1538,1611,1672,1733,1795,1859,1921,1982,2050,2150,2210,2276,2349,2418,2475,2527,2589,2873,2949,2984,3019,3069,3130,3187,3221,3256,3291,3421,3833,4039,4240,4416,4800,4995,5134,5201,5557,11938,12619,13301,13468"
+                    }
+                },
+                {
+                    "source": "D:\\daydayup\\fun\\yolo-android\\video\\ncnn-android-nanodet\\app\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "16,17,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "487,533,580",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "528,575,626"
+                    }
+                },
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\e5b99ebd4299a66c361e9a7f0b49574d\\transformed\\support-media-compat-28.0.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,144,215,288,341,394,447,500,560,626,748,809,875",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "139,210,283,336,389,442,495,555,621,743,804,870,937"
+                    },
+                    "to": {
+                        "startLines": "21,22,24,48,49,50,51,62,81,83,84,89,91",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "763,852,981,2594,2647,2700,2753,3296,4245,4421,4543,4805,5000",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "847,918,1049,2642,2695,2748,2801,3351,4306,4538,4599,4866,5062"
+                    }
+                },
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\ac068ccf654f2afec10605e29660a18b\\transformed\\coordinatorlayout-28.0.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,102,3,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,5935,116,724",
+                        "endLines": "2,104,12,101",
+                        "endColumns": "60,12,24,24",
+                        "endOffsets": "111,6075,719,5930"
+                    },
+                    "to": {
+                        "startLines": "15,94,104,110",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "426,5206,5562,5773",
+                        "endLines": "15,96,109,193",
+                        "endColumns": "60,12,24,24",
+                        "endOffsets": "482,5346,5768,10284"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-uz\\values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-ml\\values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-sk\\values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                },
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\e5b99ebd4299a66c361e9a7f0b49574d\\transformed\\support-media-compat-28.0.0\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-hi\\values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-hu\\values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.tencent.nanodetncnn.app-debug-7:/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\android_gradle\\caches\\transforms-3\\6a903bfff990e308caed9a410c08987c\\transformed\\support-compat-28.0.0\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

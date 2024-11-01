@@ -1,0 +1,3 @@
+D:/daydayup/fun/yolo-android/video/ncnn-android-nanodet/app/.cxx/Debug/01m5t685/x86/CMakeFiles/nanodetncnn.dir
+D:/daydayup/fun/yolo-android/video/ncnn-android-nanodet/app/.cxx/Debug/01m5t685/x86/CMakeFiles/edit_cache.dir
+D:/daydayup/fun/yolo-android/video/ncnn-android-nanodet/app/.cxx/Debug/01m5t685/x86/CMakeFiles/rebuild_cache.dir

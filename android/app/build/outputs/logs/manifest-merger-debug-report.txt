@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:support-v4:28.0.0] D:\android_gradle\caches\transforms-3\89e278e4904e520f9e562218dec0b442\transformed\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] D:\android_gradle\caches\transforms-3\e5b99ebd4299a66c361e9a7f0b49574d\transformed\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] D:\android_gradle\caches\transforms-3\712eb2b8adee22e1a0a177c69ec2894f\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\android_gradle\caches\transforms-3\4862872c78c00cc78bcb174e9b2df472\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\android_gradle\caches\transforms-3\f775c0f352b02826dd42028ffc165a16\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] D:\android_gradle\caches\transforms-3\ee6f0e20c5b0e82203bfa3708f52fd98\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] D:\android_gradle\caches\transforms-3\906d86792d1d3a5a17a1afbdfb8a1576\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\android_gradle\caches\transforms-3\ac068ccf654f2afec10605e29660a18b\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\android_gradle\caches\transforms-3\63b505575f9d991c0bcc59eecc42fb88\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\android_gradle\caches\transforms-3\c4cb47debed4fb2ab04f2fc4b4e925a5\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] D:\android_gradle\caches\transforms-3\94af661dfb3cf0fa9cdeb83b001c52f1\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\android_gradle\caches\transforms-3\7bdb7662d5fb4ca1ea6ff51a383e55e4\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\android_gradle\caches\transforms-3\7674016d3ab5a3e58f671002146bf1f8\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] D:\android_gradle\caches\transforms-3\6a903bfff990e308caed9a410c08987c\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\android_gradle\caches\transforms-3\fb31a1bfbffbd5e53a9c0793c104d11e\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\android_gradle\caches\transforms-3\b25a08dfb27387bc0641e94585ccb3a9\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] D:\android_gradle\caches\transforms-3\be7144c297738755d9971c0ecfad2083\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\android_gradle\caches\transforms-3\6a21507695c6e73834c931b392c87c38\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] D:\android_gradle\caches\transforms-3\66c46780aa31087efd0c6ee659e91c49\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] D:\android_gradle\caches\transforms-3\8fa56b47dd6a638f7f2ecf8cd4a1c9ec\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\android_gradle\caches\transforms-3\a19987fe8c123f3286c326c505164cda\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\android_gradle\caches\transforms-3\5951e8068e3d93c99820cf17b8c8d21a\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\android_gradle\caches\transforms-3\8569eefd8dd18c3d881bd7f90bc1c50f\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\android_gradle\caches\transforms-3\80db4024903fba8afc4e2b75e3ecf8ac\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] D:\android_gradle\caches\transforms-3\cc3c7360e7b1ceb2858e13c538b3892e\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:3:7-40
+		INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:9:22-66
+uses-feature#android.hardware.camera2.full
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:11:19-63
+application
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:13:5-41:19
+MERGED from [com.android.support:support-compat:28.0.0] D:\android_gradle\caches\transforms-3\6a903bfff990e308caed9a410c08987c\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] D:\android_gradle\caches\transforms-3\6a903bfff990e308caed9a410c08987c\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\android_gradle\caches\transforms-3\fb31a1bfbffbd5e53a9c0793c104d11e\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\android_gradle\caches\transforms-3\fb31a1bfbffbd5e53a9c0793c104d11e\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:extractNativeLibs
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:13:18-50
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] D:\android_gradle\caches\transforms-3\6a903bfff990e308caed9a410c08987c\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+activity#com.tencent.nanodetncnn.Login
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:label
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:14:19-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.tencent.nanodetncnn.Menu
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:label
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:21:19-38
+activity#com.tencent.nanodetncnn.Detect
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:28:9-33:20
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:28:19-40
+activity#com.tencent.nanodetncnn.Menu2
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:34:9-35:47
+	android:label
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:34:19-39
+activity#com.tencent.nanodetncnn.register2
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:36:9-37:47
+	android:label
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:36:19-43
+activity#com.tencent.nanodetncnn.reegister1
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:38:9-39:47
+	android:label
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:38:19-45
+uses-sdk
+INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml
+INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] D:\android_gradle\caches\transforms-3\89e278e4904e520f9e562218dec0b442\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] D:\android_gradle\caches\transforms-3\89e278e4904e520f9e562218dec0b442\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] D:\android_gradle\caches\transforms-3\e5b99ebd4299a66c361e9a7f0b49574d\transformed\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] D:\android_gradle\caches\transforms-3\e5b99ebd4299a66c361e9a7f0b49574d\transformed\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\android_gradle\caches\transforms-3\712eb2b8adee22e1a0a177c69ec2894f\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\android_gradle\caches\transforms-3\712eb2b8adee22e1a0a177c69ec2894f\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\android_gradle\caches\transforms-3\4862872c78c00cc78bcb174e9b2df472\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\android_gradle\caches\transforms-3\4862872c78c00cc78bcb174e9b2df472\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\android_gradle\caches\transforms-3\f775c0f352b02826dd42028ffc165a16\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\android_gradle\caches\transforms-3\f775c0f352b02826dd42028ffc165a16\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\android_gradle\caches\transforms-3\ee6f0e20c5b0e82203bfa3708f52fd98\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\android_gradle\caches\transforms-3\ee6f0e20c5b0e82203bfa3708f52fd98\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\android_gradle\caches\transforms-3\906d86792d1d3a5a17a1afbdfb8a1576\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\android_gradle\caches\transforms-3\906d86792d1d3a5a17a1afbdfb8a1576\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\android_gradle\caches\transforms-3\ac068ccf654f2afec10605e29660a18b\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\android_gradle\caches\transforms-3\ac068ccf654f2afec10605e29660a18b\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\android_gradle\caches\transforms-3\63b505575f9d991c0bcc59eecc42fb88\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\android_gradle\caches\transforms-3\63b505575f9d991c0bcc59eecc42fb88\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\android_gradle\caches\transforms-3\c4cb47debed4fb2ab04f2fc4b4e925a5\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\android_gradle\caches\transforms-3\c4cb47debed4fb2ab04f2fc4b4e925a5\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\android_gradle\caches\transforms-3\94af661dfb3cf0fa9cdeb83b001c52f1\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\android_gradle\caches\transforms-3\94af661dfb3cf0fa9cdeb83b001c52f1\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\android_gradle\caches\transforms-3\7bdb7662d5fb4ca1ea6ff51a383e55e4\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\android_gradle\caches\transforms-3\7bdb7662d5fb4ca1ea6ff51a383e55e4\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\android_gradle\caches\transforms-3\7674016d3ab5a3e58f671002146bf1f8\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\android_gradle\caches\transforms-3\7674016d3ab5a3e58f671002146bf1f8\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\android_gradle\caches\transforms-3\6a903bfff990e308caed9a410c08987c\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\android_gradle\caches\transforms-3\6a903bfff990e308caed9a410c08987c\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\android_gradle\caches\transforms-3\fb31a1bfbffbd5e53a9c0793c104d11e\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\android_gradle\caches\transforms-3\fb31a1bfbffbd5e53a9c0793c104d11e\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\android_gradle\caches\transforms-3\b25a08dfb27387bc0641e94585ccb3a9\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\android_gradle\caches\transforms-3\b25a08dfb27387bc0641e94585ccb3a9\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\android_gradle\caches\transforms-3\be7144c297738755d9971c0ecfad2083\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\android_gradle\caches\transforms-3\be7144c297738755d9971c0ecfad2083\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\android_gradle\caches\transforms-3\6a21507695c6e73834c931b392c87c38\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\android_gradle\caches\transforms-3\6a21507695c6e73834c931b392c87c38\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\android_gradle\caches\transforms-3\66c46780aa31087efd0c6ee659e91c49\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\android_gradle\caches\transforms-3\66c46780aa31087efd0c6ee659e91c49\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\android_gradle\caches\transforms-3\8fa56b47dd6a638f7f2ecf8cd4a1c9ec\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\android_gradle\caches\transforms-3\8fa56b47dd6a638f7f2ecf8cd4a1c9ec\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\android_gradle\caches\transforms-3\a19987fe8c123f3286c326c505164cda\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\android_gradle\caches\transforms-3\a19987fe8c123f3286c326c505164cda\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\android_gradle\caches\transforms-3\5951e8068e3d93c99820cf17b8c8d21a\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\android_gradle\caches\transforms-3\5951e8068e3d93c99820cf17b8c8d21a\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\android_gradle\caches\transforms-3\8569eefd8dd18c3d881bd7f90bc1c50f\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\android_gradle\caches\transforms-3\8569eefd8dd18c3d881bd7f90bc1c50f\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\android_gradle\caches\transforms-3\80db4024903fba8afc4e2b75e3ecf8ac\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\android_gradle\caches\transforms-3\80db4024903fba8afc4e2b75e3ecf8ac\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\android_gradle\caches\transforms-3\cc3c7360e7b1ceb2858e13c538b3892e\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\android_gradle\caches\transforms-3\cc3c7360e7b1ceb2858e13c538b3892e\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml
