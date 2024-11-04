@@ -79,7 +79,7 @@ public class Detect extends Activity implements SurfaceHolder.Callback
         buttonBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View arg0) {
-                Intent intent=new Intent(Detect.this,Menu2.class);
+                Intent intent=new Intent(Detect.this,Main.class);
                 startActivity(intent);
 
 

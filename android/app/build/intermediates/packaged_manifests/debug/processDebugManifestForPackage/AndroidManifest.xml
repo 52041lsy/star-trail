@@ -29,35 +29,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.tencent.nanodetncnn.Menu"
-            android:label="@string/app_name" >
-
-            <!--
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-            -->
+        <activity android:name="com.tencent.nanodetncnn.Main" >
         </activity>
-        <activity android:name="com.tencent.nanodetncnn.Detect" >
-
-            <!--
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-            -->
-        </activity>
-        <activity
-            android:name="com.tencent.nanodetncnn.Menu2"
-            android:label="@string/app_name" />
-        <activity
-            android:name="com.tencent.nanodetncnn.register2"
-            android:label="@string/app_name" />
-        <activity
-            android:name="com.tencent.nanodetncnn.reegister1"
-            android:label="@string/app_name" />
+        <activity android:name="com.tencent.nanodetncnn.Main2" />
+        <activity android:name="com.tencent.nanodetncnn.ChooseType" />
+        <activity android:name="com.tencent.nanodetncnn.register" />
+        <activity android:name="com.tencent.nanodetncnn.Set" />
+        <activity android:name="com.tencent.nanodetncnn.Detect" />
     </application>
 
 </manifest>

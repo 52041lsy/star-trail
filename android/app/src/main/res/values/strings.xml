@@ -25,7 +25,22 @@
 
     <string name="f3">赏景</string>
 
-    <string name="fa">看见</string>
-    <string name="fb">呼救</string>
-    <string name="fc">探索</string>
+    <string name="fa">see</string>
+    <string name="fb">call</string>
+    <string name="fc">social</string>
+    <string name="fd">set</string>
+
+
+    <string name="f3a">呼叫志愿者</string>
+    <string name="f3b">呼叫紧急联系人</string>
+    <string name="f3c">探索</string>
+
+    <string name="p1">修改资料</string>
+    <string name="p2">头像</string>
+    <string name="p8">昵称</string>
+    <string name="p3">性别</string>
+    <string name="p4">身份</string>
+    <string name="p5">电话</string>
+    <string name="p6">邮箱</string>
+    <string name="p7">保存</string>
 </resources>

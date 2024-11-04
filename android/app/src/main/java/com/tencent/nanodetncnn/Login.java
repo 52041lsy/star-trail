@@ -31,22 +31,22 @@ public class Login extends Activity {
             public void onClick(View v) {
                 String a=usernameEditText.getText().toString();
                 String b=passwordEditText.getText().toString();
-
+                //TODO：实现login(a,b);
+                //在数据库中进行查找和比对
                 if (a.equals("suzy")) {
                     Toast.makeText(Login.this, "Welcome!", Toast.LENGTH_SHORT).show();
-                    Intent intent = new Intent(Login.this, Menu.class);
+                    Intent intent = new Intent(Login.this, Main.class);
                     startActivity(intent);
                 } else {
-                    Toast.makeText(Login.this, a+b+"Wrong password!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Login.this, a+b+"Wrong!", Toast.LENGTH_SHORT).show();
                 }
-                //login(a,b);
             }
         });
         //注册按钮监听器
         registerButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent=new Intent(Login.this,reegister1.class);
+                Intent intent=new Intent(Login.this, register.class);
                 startActivity(intent);
             }
         });

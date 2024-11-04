@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:2:1-43:12
-INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:2:1-43:12
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:2:1-32:12
 MERGED from [com.android.support:support-v4:28.0.0] D:\android_gradle\caches\transforms-3\89e278e4904e520f9e562218dec0b442\transformed\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:28.0.0] D:\android_gradle\caches\transforms-3\e5b99ebd4299a66c361e9a7f0b49574d\transformed\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] D:\android_gradle\caches\transforms-3\712eb2b8adee22e1a0a177c69ec2894f\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
@@ -53,7 +53,7 @@ ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\
 	android:name
 		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:11:19-63
 application
-ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:13:5-41:19
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:13:5-30:19
 MERGED from [com.android.support:support-compat:28.0.0] D:\android_gradle\caches\transforms-3\6a903bfff990e308caed9a410c08987c\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] D:\android_gradle\caches\transforms-3\6a903bfff990e308caed9a410c08987c\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] D:\android_gradle\caches\transforms-3\fb31a1bfbffbd5e53a9c0793c104d11e\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
@@ -78,34 +78,30 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
 		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:18:27-74
-activity#com.tencent.nanodetncnn.Menu
-ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:21:9-27:20
-	android:label
-		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:22:13-45
+activity#com.tencent.nanodetncnn.Main
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:21:9-22:20
 	android:name
 		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:21:19-38
+activity#com.tencent.nanodetncnn.Main2
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:23:9-41
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:23:19-39
+activity#com.tencent.nanodetncnn.ChooseType
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:24:9-46
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:24:19-44
+activity#com.tencent.nanodetncnn.register
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:25:9-44
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:25:19-42
+activity#com.tencent.nanodetncnn.Set
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:26:9-39
+	android:name
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:26:19-37
 activity#com.tencent.nanodetncnn.Detect
-ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:28:9-33:20
+ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:27:9-42
 	android:name
-		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:28:19-40
-activity#com.tencent.nanodetncnn.Menu2
-ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:34:9-35:47
-	android:label
-		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:35:13-45
-	android:name
-		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:34:19-39
-activity#com.tencent.nanodetncnn.register2
-ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:36:9-37:47
-	android:label
-		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:37:13-45
-	android:name
-		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:36:19-43
-activity#com.tencent.nanodetncnn.reegister1
-ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:38:9-39:47
-	android:label
-		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:39:13-45
-	android:name
-		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:38:19-45
+		ADDED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml:27:19-40
 uses-sdk
 INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\daydayup\fun\yolo-android\video\ncnn-android-nanodet\app\src\main\AndroidManifest.xml
